@@ -16,7 +16,7 @@
                                                                                
                                                                                
 AntiMelt is designed and a forking of the ancient NoMelt which prevented the melting of Snow and Ice in Minecraft
-Given the plugin long has died and no longer works sometimes, I this is a somewhat private revival of it. 
+Given the plugin long has died and no longer works sometimes, this is a somewhat private revival of it. 
 
 It is pretty straight forward, as well since the source is just cleaned up and fixed to support the new NMS/OBC changes.
 It also works with MC 1.4.6+ "upon updating the NMS/OBC". 
